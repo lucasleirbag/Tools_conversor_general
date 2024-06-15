@@ -27,7 +27,7 @@ Atualize a documentação conforme necessário para refletir as suas alteraçõe
 
 ## Código de Conduta
 
-Ao contribuir para este projeto, por favor, respeite o nosso Código de Conduta. Queremos manter este projeto inclusivo e acolhedor para todos.
+Ao contribuir para este projeto, por favor, respeite o nosso [Código de Conduta](CODE_OF_CONDUCT.md). Queremos manter este projeto inclusivo e acolhedor para todos.
 
 ## Dúvidas
 
