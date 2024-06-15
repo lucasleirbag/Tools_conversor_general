@@ -1,0 +1,31 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+*.venv
+env/
+venv/
+ENV/
+
+# Arquivos do PyCharm
+.idea/
+
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração local
+*.cfg
+
+# Pasta de distribuição
+/dist
+
+# Pasta de build
+/build

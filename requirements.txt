@@ -1,0 +1,6 @@
+cffi==1.16.0
+cryptography==42.0.8
+pdf2image==1.17.0
+pillow==10.3.0
+pycparser==2.22
+tqdm==4.66.4
